@@ -1,3 +1,3 @@
 # AnnDesktop
 A desktop version of the famous Ann Dancing statue in Indianapolis. 
-![](https://i.imgur.com/VGtU03q.gif)
+![](https://github.com/benji-8229/AnnDesktop/blob/main/downscaled_media.gif?raw=true)
